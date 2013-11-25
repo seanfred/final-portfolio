@@ -13,6 +13,7 @@ gem 'json'
 gem 'browser-timezone-rails'
 gem 'globalize'
 gem 'metric_fu'
+gem 'unicorn'
 
 
 gem 'coveralls', require: false
