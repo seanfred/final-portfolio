@@ -14,6 +14,7 @@ gem 'browser-timezone-rails'
 gem 'globalize'
 gem 'metric_fu'
 gem 'unicorn'
+gem 'mina'
 
 
 gem 'coveralls', require: false
@@ -58,7 +59,6 @@ group :development, :test do
   gem 'pry-doc'
   gem 'pry-debugger'
   gem 'faker'
-  gem 'railroady'
 end
 
 group :test do
