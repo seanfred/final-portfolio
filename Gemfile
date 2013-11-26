@@ -14,7 +14,8 @@ gem 'browser-timezone-rails'
 gem 'globalize'
 gem 'metric_fu'
 gem 'unicorn'
-gem 'mina'
+gem 'capistrano'
+gem 'rvm-capistrano'
 
 
 gem 'coveralls', require: false
